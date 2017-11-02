@@ -24,3 +24,4 @@
 * JPDA chalktalk. Should be pretty useful for local computer vision problems.
 * Gaussian mixture model chalk discussion.
 * Play around with picture.
+* Talk on ghostbusters tracking.
